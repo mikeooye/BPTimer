@@ -1,0 +1,16 @@
+//
+//  Prefix.pch
+//  BPTimer
+//
+//  Created by LiHaozhen on 14/10/19.
+//  Copyright (c) 2014年 ihojin. All rights reserved.
+//
+
+#ifndef BPTimer_Prefix_pch
+#define BPTimer_Prefix_pch
+
+// Include any system framework and library headers here that should be included in all compilation units.
+// You will also need to set the Prefix Header build setting of one or more of your targets to reference this file.
+
+#import "bpMacroDefine.h"
+#endif
